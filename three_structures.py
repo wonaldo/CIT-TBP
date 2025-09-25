@@ -100,7 +100,7 @@ if __name__ == '__main__':
         sta_list.append(adjacency)
     print(res_list)
 
-    ## Evaluation
+    ## Evaluation.
     for i in range(len(res_list)):
        adj_sta=sta_list[i]
        adj_te=res_list[i]
